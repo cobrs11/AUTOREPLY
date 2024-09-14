@@ -245,7 +245,7 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
     let _0x1a9d75 = "\n*❤️ HANSAMAL-MD 📱- OTHER MENU ☠️*\n\n   *HELLO* " + _0x51e561 + "\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* " + (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) + "MB / " + Math.round(require('os').totalmem / 1024 / 1024) + "MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* " + runtime(process.uptime()) + "\n*╰──────────●●►*\n*╭──────────●●►*\n*│⚜️ CONVERT MENU*\n*│   ───────*\n" + '' + "\n*╰───────────●●►*\n\n\n💻 *GitHub:*  https://github.com/ASITHA-MD/ASITHA-MD\n\n> *POWERED by ASITHA-MD*\n";
     const _0x46a2a4 = {
       newsletterJid: "120363232588171807@newsletter",
-      newsletterName: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+      newsletterName: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
       serverMessageId: 0x3e7
     };
     const _0x186a54 = {
@@ -298,11 +298,11 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
             serverMessageId: 0x3e7
           };
           const _0x109e68 = {
-            title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+            title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
             body: '' + _0x51e561,
             mediaType: 0x1,
             sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
-            thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
+            thumbnailUrl: "https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg",
             renderLargerThumbnail: true,
             showAdAttribution: true
           };
@@ -326,15 +326,15 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
           if (_0x57be18 === '2') {
             const _0x21deed = {
               newsletterJid: "120363232588171807@newsletter",
-              newsletterName: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+              newsletterName: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
               serverMessageId: 0x3e7
             };
             const _0x2e4b52 = {
-              title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+              title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
               body: '' + _0x51e561,
               mediaType: 0x1,
-              sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
-              thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
+              sourceUrl: "https://whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
+              thumbnailUrl: "https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg",
               renderLargerThumbnail: true,
               showAdAttribution: true
             };
@@ -358,15 +358,15 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
             if (_0x57be18 === '3') {
               const _0x41b0ca = {
                 newsletterJid: "120363232588171807@newsletter",
-                newsletterName: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                newsletterName: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                 serverMessageId: 0x3e7
               };
               const _0x75df90 = {
-                title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                 body: '' + _0x51e561,
                 mediaType: 0x1,
-                sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
-                thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
+                sourceUrl: "https://whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
+                thumbnailUrl: "https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg",
                 renderLargerThumbnail: true,
                 showAdAttribution: true
               };
@@ -390,15 +390,15 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
               if (_0x57be18 === '4') {
                 const _0x336c73 = {
                   newsletterJid: "120363232588171807@newsletter",
-                  newsletterName: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                  newsletterName: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                   serverMessageId: 0x3e7
                 };
                 const _0x136650 = {
-                  title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                  title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                   body: '' + _0x51e561,
                   mediaType: 0x1,
-                  sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
-                  thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
+                  sourceUrl: "https://whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
+                  thumbnailUrl: "https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg",
                   renderLargerThumbnail: true,
                   showAdAttribution: true
                 };
@@ -422,15 +422,15 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
                 if (_0x57be18 === '5') {
                   const _0x35e3db = {
                     newsletterJid: "120363232588171807@newsletter",
-                    newsletterName: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                    newsletterName: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                     serverMessageId: 0x3e7
                   };
                   const _0x316667 = {
-                    title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                    title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                     body: '' + _0x51e561,
                     mediaType: 0x1,
-                    sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
-                    thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
+                    sourceUrl: "https://whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
+                    thumbnailUrl: "https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg",
                     renderLargerThumbnail: true,
                     showAdAttribution: true
                   };
@@ -454,15 +454,15 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
                   if (_0x57be18 === '6') {
                     const _0x4989be = {
                       newsletterJid: "120363232588171807@newsletter",
-                      newsletterName: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                      newsletterName: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                       serverMessageId: 0x3e7
                     };
                     const _0x437a87 = {
-                      title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                      title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                       body: '' + _0x51e561,
                       mediaType: 0x1,
-                      sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
-                      thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
+                      sourceUrl: "https://whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
+                      thumbnailUrl: "https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg",
                       renderLargerThumbnail: true,
                       showAdAttribution: true
                     };
@@ -486,14 +486,14 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
                     if (_0x57be18 === '7') {
                       const _0x4d99ab = {
                         newsletterJid: "120363232588171807@newsletter",
-                        newsletterName: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+                        newsletterName: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
                         serverMessageId: 0x3e7
                       };
                       const _0x3468a6 = {
                         title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
                         body: '' + _0x51e561,
                         mediaType: 0x1,
-                        sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
+                        sourceUrl: "https://whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
                         thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
                         renderLargerThumbnail: true,
                         showAdAttribution: true
