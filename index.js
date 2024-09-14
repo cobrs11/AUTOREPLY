@@ -249,11 +249,11 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
       serverMessageId: 0x3e7
     };
     const _0x186a54 = {
-      title: "𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 ☠️",
+      title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ❤️",
       body: '' + _0x51e561,
       mediaType: 0x1,
       sourceUrl: "https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z",
-      thumbnailUrl: "https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg",
+      thumbnailUrl: "https://imgtr.ee/images/2024/09/14/a36fb8cf045cdde562f56c49470c037e.jpeg",
       renderLargerThumbnail: true,
       showAdAttribution: true
     };
@@ -284,7 +284,7 @@ cmd(_0x47ca1, async (_0x417c80, _0x5c3d5c, _0x422b98, {
       const _0x543688 = _0x3c2132.message.extendedTextMessage && _0x3c2132.message.extendedTextMessage.contextInfo.stanzaId === _0x4c0eea;
       if (_0x543688) {
         const _0x3b217a = {
-          text: '🚀',
+          text: '📑',
           key: _0x3c2132.key
         };
         const _0x484810 = {
