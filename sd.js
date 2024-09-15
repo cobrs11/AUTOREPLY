@@ -182,7 +182,7 @@ cmd(_0x2c9954, async (_0x1de96b, _0x1544c1, _0xc9bfbb, {
     if (!_0x27d32c && !_0x27d32c.startsWith("https://")) {
       return _0xac986("*give me fb url ❌*");
     }
-    let _0x5248ab = "\n💢 *ASITHA-MD FB DOWNLOADER* 💢\n\n\n🔢 *Please reply the number you want to select*\n\n*[1] facebook Video*\n\n1 | 🔋 HD QUALITY\n2 | 🪫 SD QUALITY\n\n*URL :* " + _0x27d32c + "\n\n> *POWERED by ASITHA-MD*\n";
+    let _0x5248ab = "\n💢 *HANSAMAL-MD FB DOWNLOADER* 💢\n\n\n🔢 *Please reply the number you want to select*\n\n*[1] facebook Video*\n\n1 | 🔋 HD QUALITY\n2 | 🪫 SD QUALITY\n\n*URL :* " + _0x27d32c + "\n\n> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*\n";
     const _0xe9c56d = {
       text: _0x5248ab
     };
@@ -224,7 +224,7 @@ cmd(_0x2c9954, async (_0x1de96b, _0x1544c1, _0xc9bfbb, {
           const _0x4e52ef = {
             video: _0x40bff0,
             mimetype: "video/mp4",
-            caption: "> *POWERED by ASITHA-MD*"
+            caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
           };
           const _0xfd046d = {
             quoted: _0x7d8fd1
@@ -238,7 +238,7 @@ cmd(_0x2c9954, async (_0x1de96b, _0x1544c1, _0xc9bfbb, {
             const _0x56efab = {
               video: _0x5993ef,
               mimetype: "video/mp4",
-              caption: "> *POWERED by ASITHA-MD*"
+              caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
             };
             const _0x46d6e5 = {
               quoted: _0x7d8fd1
@@ -298,7 +298,7 @@ cmd(_0x7ddd83, async (_0x17b200, _0x33012e, _0x4f2e7f, {
     if (!_0x307b18 && !_0x307b18.startsWith("https://")) {
       return _0x234453("*give me tiktok url ❌*");
     }
-    let _0x92c2f3 = "\n     🎟️ *ASITHA-MD TIKTOK DOWNLOADER* 🎟️\n\n🔢 *Please reply with the number you want to select:*\n\n*1.* Tiktok Video\n\n   1.1 | 📼 No-Watermark\n   1.2 | 🎟️ With-Watermark\n\n*2.* Tiktok Audio\n\n   2.1 | 🎶 Audio file\n   2.2 | Document File 📂\n   \n*URL:* " + _0x307b18 + "\n\n> *POWERED by ASITHA-MD*    \n     ";
+    let _0x92c2f3 = "\n     🎟️ *HANSAMAL-MD TIKTOK DOWNLOADER* 🎟️\n\n🔢 *Please reply with the number you want to select:*\n\n*1.* Tiktok Video\n\n   1.1 | 📼 No-Watermark\n   1.2 | 🎟️ With-Watermark\n\n*2.* Tiktok Audio\n\n   2.1 | 🎶 Audio file\n   2.2 | Document File 📂\n   \n*URL:* " + _0x307b18 + "\n\n> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*    \n     ";
     const _0x239ec0 = {
       text: _0x92c2f3
     };
@@ -340,7 +340,7 @@ cmd(_0x7ddd83, async (_0x17b200, _0x33012e, _0x4f2e7f, {
           const _0x25c1de = {
             video: _0x4afe6e,
             mimetype: "video/mp4",
-            caption: "> *POWERED by ASITHA-MD*"
+            caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
           };
           const _0x414f2c = {
             quoted: _0xa5ccd
@@ -354,7 +354,7 @@ cmd(_0x7ddd83, async (_0x17b200, _0x33012e, _0x4f2e7f, {
             const _0x2a94d3 = {
               video: _0x38dbc1,
               mimetype: "video/mp4",
-              caption: "> *POWERED by ASITHA-MD*"
+              caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
             };
             const _0x25d8b6 = {
               quoted: _0xa5ccd
@@ -384,8 +384,8 @@ cmd(_0x7ddd83, async (_0x17b200, _0x33012e, _0x4f2e7f, {
                 await _0x17b200.sendMessage(_0x1de8d4, {
                   'document': _0xcb7fb9,
                   'mimetype': "audio/mpeg",
-                  'fileName': "ASITHA-MD☠️.mp3",
-                  'caption': "> *POWERED by ASITHA-MD*"
+                  'fileName': "HANSAMAL-MD❤️.mp3",
+                  'caption': "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
                 }, _0x14960d);
               }
             }
@@ -453,7 +453,7 @@ cmd(_0x51ba33, async (_0x1d3ed4, _0x4496be, _0x49e4c7, {
     const _0x433428 = {
       video: _0x120804,
       mimetype: "video/mp4",
-      caption: "> *POWERED by ASITHA-MD*"
+      caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
     };
     const _0x209b90 = {
       quoted: _0x4496be
@@ -466,7 +466,7 @@ cmd(_0x51ba33, async (_0x1d3ed4, _0x4496be, _0x49e4c7, {
     const _0x148fdd = {
       video: _0x29c5af,
       mimetype: "video/mp4",
-      caption: "> *POWERED by ASITHA-MD*"
+      caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
     };
     const _0x4d931d = {
       quoted: _0x4496be
@@ -537,7 +537,7 @@ cmd(_0x441f84, async (_0x3229d4, _0x4cfb4f, _0x491fef, {
       document: _0x575b6a,
       fileName: _0x4f03b7.data.fileName,
       mimetype: _0x4f03b7.data.mimeType,
-      caption: _0x4f03b7.data.fileName + "\n\n> " + "*POWERED by ASITHA-MD*"
+      caption: _0x4f03b7.data.fileName + "\n\n> " + "*POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
     };
     const _0x5a04f8 = {
       quoted: _0x4cfb4f
@@ -596,7 +596,7 @@ cmd(_0x205347, async (_0x341255, _0x43c25f, _0x4e8442, {
       document: _0x3b019a,
       fileName: _0x80c2ca.data.name,
       mimetype: _0x80c2ca.data.file_type,
-      caption: _0x80c2ca.data.name + "\n\n" + "*POWERED by ASITHA-MD*"
+      caption: _0x80c2ca.data.name + "\n\n" + "*POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
     };
     const _0x161cfc = {
       quoted: _0x43c25f
@@ -656,7 +656,7 @@ cmd(_0x23e9c2, async (_0xe4fde0, _0x371300, _0x1352f3, {
       const _0x5bb447 = {
         video: _0x46e6e2,
         mimetype: "video/mp4",
-        caption: "> *POWERED by ASITHA-MD*"
+        caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
       };
       const _0x59749e = {
         quoted: _0x371300
@@ -702,12 +702,12 @@ cmd(_0x388157, async (_0x4f3156, _0x474465, _0x473519, {
 }) => {
   try {
     if (!_0x3171ad) {
-      return _0x1c166c("*❌Please give me url or titel*");
+      return _0x1c166c("*❌Please give me url or titel❤️*");
     }
     const _0x321df8 = await yts(_0x3171ad);
     const _0x3634f6 = _0x321df8.videos[0];
     const _0x17f623 = _0x3634f6.url;
-    let _0x24517e = "\n*🎶𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 𝗔𝗨𝗗𝗜𝗢-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥🎶*  \n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎 :* " + _0x3634f6.title + "\n*|*\n*|-🗒️ Description :* " + _0x3634f6.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x3634f6.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x3634f6.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x3634f6.views + "\n*|__________________________*\n\n\n🔽 *To download send:*\n\n1. *Audio File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ASITHA-MD*\n";
+    let _0x24517e = "\n*🎶HANSAMAL-MD AUDIO DOWNLOADER🎶*  \n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎 :* " + _0x3634f6.title + "\n*|*\n*|-🗒️ Description :* " + _0x3634f6.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x3634f6.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x3634f6.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x3634f6.views + "\n*|__________________________*\n\n\n🔽 *To download send:*\n\n1. *Audio File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*\n";
     const _0x19a5d8 = {
       url: _0x3634f6.thumbnail
     };
@@ -771,7 +771,7 @@ cmd(_0x388157, async (_0x4f3156, _0x474465, _0x473519, {
               'document': _0x221c4d,
               'mimetype': "audio/mpeg",
               'fileName': _0x3634f6.title + ".mp3",
-              'caption': "> *POWERED by ASITHA-MD*"
+              'caption': "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
             }, _0x3cd85f);
           }
         }
@@ -845,7 +845,7 @@ cmd(_0x5d5e29, async (_0x430d8b, _0x263f83, _0x1a3ccb, {
     const _0x5aa19a = await yts(_0x2fecc9);
     const _0x576657 = _0x5aa19a.videos[0];
     const _0x5d77f7 = _0x576657.url;
-    let _0x45243b = "\n*📽️ASITHA-MD VIDEO-DOWNLOADER📽️*\n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎* : " + _0x576657.title + "\n*|*\n*|-🗒️ Description :* " + _0x576657.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x576657.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x576657.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x576657.views + "\n*|__________________________*\n\n🔽 *To download send:*\n\n1. *Video File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ASITHA-MD*\n";
+    let _0x45243b = "\n*📽HANSAMAL-MD VIDEO-DOWNLOADER📽️*\n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎* : " + _0x576657.title + "\n*|*\n*|-🗒️ Description :* " + _0x576657.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x576657.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x576657.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x576657.views + "\n*|__________________________*\n\n🔽 *To download send:*\n\n1. *Video File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*\n";
     const _0x18ae11 = {
       url: _0x576657.thumbnail
     };
@@ -892,7 +892,7 @@ cmd(_0x5d5e29, async (_0x430d8b, _0x263f83, _0x1a3ccb, {
           const _0x3732ce = {
             video: _0x31c37c,
             mimetype: "video/mp4",
-            caption: "> *POWERED by ASITHA-MD*"
+            caption: "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
           };
           const _0x5c2580 = {
             quoted: _0x127d2a
@@ -910,7 +910,7 @@ cmd(_0x5d5e29, async (_0x430d8b, _0x263f83, _0x1a3ccb, {
               'document': _0x4b7ad0,
               'mimetype': "video/mp4",
               'fileName': _0x576657.title + ".mp4",
-              'caption': "> *POWERED by ASITHA-MD*"
+              'caption': "> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
             }, _0x29f2c9);
           }
         }
@@ -980,7 +980,7 @@ cmd(_0x121fd3, async (_0xdb26d, _0x455f0a, _0x25a4ec, {
     const _0xa78b1c = await yts(_0x56da6e);
     const _0x30bc24 = _0xa78b1c.videos[0];
     const _0x5df950 = _0x30bc24.url;
-    let _0x34f73f = "\n*🎶𝗔𝗦𝗜𝗧𝗛𝗔-𝗠𝗗 𝗔𝗨𝗗𝗜𝗢-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥🎶*  \n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎 :* " + _0x30bc24.title + "\n*|*\n*|-🗒️ Description :* " + _0x30bc24.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x30bc24.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x30bc24.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x30bc24.views + "\n*|__________________________*\n\n\n🔽 *To download send:*\n\n1. *Audio File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ASITHA-MD*\n";
+    let _0x34f73f = "\n*🎶HANSAMAL-MD AUDIO DOWNLOADER🎶*  \n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎 :* " + _0x30bc24.title + "\n*|*\n*|-🗒️ Description :* " + _0x30bc24.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x30bc24.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x30bc24.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x30bc24.views + "\n*|__________________________*\n\n\n🔽 *To download send:*\n\n1. *Audio File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*\n";
     const _0x11a415 = {
       url: _0x30bc24.thumbnail
     };
@@ -1103,7 +1103,7 @@ cmd(_0x5cbff1, async (_0x2641d7, _0x2adac9, _0xf97e4a, {
     const _0x4eba1e = await yts(_0x1a324b);
     const _0x31a83b = _0x4eba1e.videos[0];
     const _0x34da61 = _0x31a83b.url;
-    let _0xe90e99 = "\n*📽️ASITHA-MD VIDEO-DOWNLOADER📽️*\n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎 :* " + _0x31a83b.title + "\n*|*\n*|-🗒️ Description :* " + _0x31a83b.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x31a83b.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x31a83b.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x31a83b.views + "\n*|__________________________*\n\n\n🔽 *To download send:*\n\n1. *Video File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ASITHA-MD*\n";
+    let _0xe90e99 = "\n*📽️HANSAMAL-MD VIDEO-DOWNLOADER📽️*\n*|__________________________*\n*|-ℹ️ 𝚃𝚒𝚝𝚕𝚎 :* " + _0x31a83b.title + "\n*|*\n*|-🗒️ Description :* " + _0x31a83b.description + "\n*|*\n*|-🕘 𝚃𝚒𝚖𝚎 :* " + _0x31a83b.timestamp + "\n*|*\n*|-📌 𝙰𝚐𝚘 :* " + _0x31a83b.ago + "\n*|*\n*|-📉 𝚅𝚒𝚎𝚠𝚜 :* " + _0x31a83b.views + "\n*|__________________________*\n\n\n🔽 *To download send:*\n\n1. *Video File* 🎶\n2. *Document File* 📂\n\n> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*\n";
     const _0x2d8df1 = {
       url: _0x31a83b.thumbnail
     };
@@ -1289,7 +1289,7 @@ cmd(_0x5c5b8b, async (_0x2a7636, _0x1081a3, _0xb0cdc7, {
     };
     const _0x31cfbf = {
       video: _0x594317,
-      caption: _0x13ffcb + "\n\n> *POWERED by ASITHA-MD*"
+      caption: _0x13ffcb + "\n\n> *POWERED by ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ*"
     };
     const _0x575d99 = {
       quoted: _0x1081a3
